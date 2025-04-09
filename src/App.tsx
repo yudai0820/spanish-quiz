@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { useState } from 'react';
+import { JSX, useState } from 'react';
 
 interface QuizResponse {
   image_url: string;
